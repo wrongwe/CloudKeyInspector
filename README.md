@@ -1,10 +1,3 @@
-```markdown
-# CloudKeyInspector
-
-![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**CloudKeyInspector** 是一款专业的多云密钥检测工具，支持快速验证阿里云、AWS、腾讯云、华为云的AccessKey有效性及权限状态。
 
 ## 功能亮点
 - 🚩 **四大云厂商支持**  
@@ -75,10 +68,6 @@ CloudKeyInspector/
 └── README.md               # 说明文档
 ```
 
-
-
 ---
-
 **注意**：使用前请确保已阅读并同意各云厂商的API调用条款。  
-**许可证**：[MIT License](LICENSE) © 2024 Ruoji
 ```
