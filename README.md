@@ -20,10 +20,10 @@
 ### 1. 下载脚本
 ```bash
 wget https://raw.githubusercontent.com/wrongwe/CloudKeyInspector/main/CloudKeyInspector.py
-2. 运行检测
-Bash
+### 2. **运行检测**
+```bash
 python CloudKeyInspector.py
-3. 按提示操作
+### 3. **按提示操作**
 Text
 **************************************
 *      多云密钥检测工具 (四厂商完整版)     *
